@@ -1,1 +1,3 @@
-Versionamento testado com sucesso. Git e GitHub prontos para iniciar o projeto com versionamento de código.
+Olá! Para que o meu projeto funcione corretamente será necessário alterar o backend, no arquivo routes.js, na linha 15, de "TRUE" para "FALSE".
+
+Peço desculpas porém tive dificuldade com a autenticação do usuário para realizar os Requests na API.
